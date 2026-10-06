@@ -1,0 +1,7 @@
+# Spark and Jupyter by-products
+spark-warehouse/
+metastore_db/
+derby.log
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
